@@ -1,0 +1,47 @@
+[
+  {
+    "name": "main_navigation",
+    "usage": "Standard custom routed fixed navigation. Changes color depending on where it stands",
+    "src": ""
+  },
+  {
+    "name": "main_page_carousel",
+    "usage": "Simple carousel showing mesmerizing space data",
+    "src": ""
+  },
+  {
+    "name": "logo_grid",
+    "usage": "Logo grid exposing all ther partner's logos on the front page.",
+    "src": ""
+  },
+  {
+    "name": "explore_pentagons",
+    "usage": "Unconsistent secondary navigation laying in the /explore page and giving access to vulgarisation articles",
+    "src": ""
+  },
+  {
+    "name": "text_block",
+    "usage": "Blocs of text, all obeying to the same stylistic rules",
+    "src": ""
+  },
+  {
+    "name": "copyright_footer",
+    "usage": "Discreet copyright mention laying at the bottom of any page",
+    "src": ""
+  },
+  {
+    "name": "publication_entry",
+    "usage": "Component showing the title and references of an article",
+    "src": ""
+  },
+  {
+    "name": "event_entry",
+    "usage": "",
+    "src": ""
+  },
+  {
+    "name": "event_entry",
+    "usage": "",
+    "src": ""
+  },
+]

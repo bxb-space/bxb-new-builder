@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "black": ,
+    "white": ,
+    "main": ,
+    "secondary": ,
+  },
+  "palettes": [
+    { "name": "greyscale", "colors": [
+        "1d1d1d", "fff"
+    ]},
+    { "name": "colorscale", "colors": [
+        "blue", "orangeRed"
+    ]},
+  ],
+  "gradients": []
+}
